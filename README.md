@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is *Mateus Nazario*, and I'm interested in Virtual Reality and Robotics.
+
+[![My Skills](https://skillicons.dev/icons?i=unity,ros,py, cpp)](https://skillicons.dev)
 <!--
 **mateusnazarioc/mateusnazarioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
