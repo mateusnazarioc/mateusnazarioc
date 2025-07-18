@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusnazarioc)](https://github.com/mateusnazarioc/github-readme-stats)
+
 My name is *Mateus Nazario*, and I'm interested in Virtual Reality and Robotics.
 
 [![My Skills](https://skillicons.dev/icons?i=unity,ros,py,cpp)](https://skillicons.dev)
