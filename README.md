@@ -28,17 +28,6 @@
   </a>
 </p>
 
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusnazarioc&theme=github" alt="GitHub stats"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateusnazarioc&theme=github" alt="Top languages by commit"/>
-</p>
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=mateusnazarioc&hide_border=true" alt="GitHub streak"/>
-</p>
-
 ---
 
 <p align="center"><i>Always happy to collaborate on robotics, XR and human-centered technology! :) </i></p>
