@@ -12,15 +12,15 @@
 
 ---
 
-## 🧑‍🔬 About me
+## About me
 
 - 🎓 PhD student in Computer Science at **Memorial University of Newfoundland (MUN)**, Canada
-- 🇧🇷 Control & Automation Engineering background at **UFOP** (Universidade Federal de Ouro Preto), Brazil
+- 🇧🇷 MSc and Bachelor in Control & Automation Engineering background at **UFOP** (Universidade Federal de Ouro Preto), Ouro Preto, Minas Gerais, Brasil
 - 🤖 Researching tactile sensing and multimodal perception for robotic manipulation
 - 🥽 Designed VR + BCI systems to evaluate usability, attention and accessibility in industrial training
 - ⛓️ Explored blockchain (Neo smart contracts & oracles) for auditing mobile-robot data in remote sites
 
-## 🛠️ Tech stack
+## Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,22 +28,17 @@
   </a>
 </p>
 
-| Area | Tools & topics |
-|---|---|
-| **Robotics** | ROS 2 / ROS, Gazebo, tactile sensing, robotic arms and mobile robotics |
-| **XR & HCI** | Unity, C#, Virtual Reality, user studies (usability, acceptance, accessibility) |
-| **Neurotech** | Brain–Computer Interfaces, EEG acquisition & time-series classification |
-| **Programming** | C++, Python, C#, Swift, JavaScript |
-| **Other** | Blockchain (Neo), forecasting / metaheuristics (VNS), LaTeX, Linux |
-
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mateusnazarioc&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnazarioc&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateusnazarioc&theme=github" alt="GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateusnazarioc&theme=github" alt="Top languages by commit"/>
+</p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=mateusnazarioc&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
 
-<p align="center"><i>Always happy to collaborate on robotics, XR and human-centred technology ✨</i></p>
+<p align="center"><i>Always happy to collaborate on robotics, XR and human-centered technology! :) </i></p>
